@@ -1,4 +1,4 @@
 # first
 This is my first repository
 <br>
-Author - Ishrat
+Author - Ishrat Parvin
